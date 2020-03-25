@@ -41,4 +41,7 @@ if (school === "Elementary") {
     console.log("you are in HS");
 }
 let ron = "Ron";
-console.log(ron !== "Ema");
+console.log(ron !== "Ema"); 
+
+
+
